@@ -3,3 +3,5 @@
 astrolabe.egg-info/
 results.json
 xunit-output/
+integrations/go/go.sum
+integrations/go/executor
